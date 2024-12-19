@@ -6,7 +6,10 @@
 
 Our aim is to deliver maximum functionality, enabling you as a site owner to configure the plugin exactly as needed, all while maintaining an user-friendly interface.<br>
 However, it's beneficial to be familiar with all the available options.<br>
-The plugin is organized into two primary sections: Installation and Settings.
+
+The plugin is organized into two primary sections:<br>
+
+Installation and Settings.
 
 ## Installation
 
