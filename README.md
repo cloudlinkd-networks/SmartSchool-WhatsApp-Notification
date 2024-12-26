@@ -4,6 +4,9 @@
 
 # CloudLinkd Smart School WhatsApp Notification
 
+![Example dashboard](https://raw.githubusercontent.com/cloudlinkd-networks/WHMCS-WhatsApp-Notification/refs/heads/main/screenshot-4.png)
+</br></br>
+
 Our aim is to deliver maximum functionality, enabling you as a site owner to configure the plugin exactly as needed, all while maintaining an user-friendly interface.<br>
 However, it's beneficial to be familiar with all the available options.<br>
 
