@@ -29,7 +29,7 @@ Installation and Settings.
 - Select Enabled then save.
 - Select Communicate tab then select Send SMS.
 - Select Send Through : SMS.
-- Select option from Message to field .
+- Select option from Message to field.
 - Enter your message in the Message field.
 - Select Send Now and then Submit.
 
