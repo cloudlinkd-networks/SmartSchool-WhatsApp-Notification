@@ -33,6 +33,14 @@ Installation and Settings.
 - Enter your message in the Message field.
 - Select Send Now and then Submit.
 
+## Settings 1 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/SmartSchool-WhatsApp-Notification/refs/heads/main/smart-school-1.png)
+
+## Settings 2 :
+
+![Example settings](https://raw.githubusercontent.com/cloudlinkd-networks/SmartSchool-WhatsApp-Notification/refs/heads/main/smart-school-2.png)
+
 ----------
 
 ## Credits
