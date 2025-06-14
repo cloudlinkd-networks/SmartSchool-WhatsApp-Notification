@@ -18,7 +18,7 @@ Installation and Settings.
 
 - Download the latest "CloudLinkd-Smart-School.zip" file from the releases tab.
 - Unzip the Downloaded file to the root of your smart school website.
-- Go to application/libraries/customsms.php and enter your API Secret and WhatsApp Account Unique ID from your CloudLinkd WhatsApp account https://wa.cloudlinkd.com.
+- Go to application/libraries/customsms.php and enter your API Key and Sender/Phone Number ( *Country Code without + ) from your CloudLinkd WhatsApp account https://wa.cloudlinkd.com.
 
 ## Settings
 
